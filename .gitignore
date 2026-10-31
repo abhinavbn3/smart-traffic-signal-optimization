@@ -1,0 +1,18 @@
+# YOLO model weights (downloaded automatically by ultralytics; too large for git)
+*.pt
+
+# Generated output images
+roadzones_*.png
+zones_*.png
+detected_*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+Thumbs.db
+.DS_Store

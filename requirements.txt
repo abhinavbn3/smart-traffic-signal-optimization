@@ -1,0 +1,4 @@
+ultralytics
+opencv-python
+numpy
+pulp==2.9.0
